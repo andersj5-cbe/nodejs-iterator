@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-iterator",
+  "version": "1.0.0",
+  "description": "A function to iterate over a list asyncronously.",
+  "main": "async-iterator.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Madroxprime/nodejs-iterator.git"
+  },
+  "keywords": [
+    "nodejs",
+    "asynchronous",
+    "iterator"
+  ],
+  "author": "John E. Anderson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Madroxprime/nodejs-iterator/issues"
+  },
+  "homepage": "https://github.com/Madroxprime/nodejs-iterator#readme"
+}
